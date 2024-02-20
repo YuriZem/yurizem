@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yurizem
-- 👀 I’m interested in being full stack using Ionic/Angular, nodeJs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in being Mobile full stack using Ionic/Angular, nodeJs and Android
+- 🌱 I’m currently learning Ionic/Angular, nodeJs and Android
 
 <!---
 yurizem/yurizem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
