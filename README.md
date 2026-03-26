@@ -21,6 +21,5 @@ Atualmente estou evoluindo em:
 <div>
   <a href="">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=yurizem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=yurizem&layout=compact&theme=dark&langs_count=168"/>
+     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?        username=yurizem&layout=compact&theme=dark&langs_count=168"/>
 </div>
